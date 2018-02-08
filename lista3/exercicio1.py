@@ -1,0 +1,4 @@
+_author_ = 'Mardonio'
+i = 1
+for i in range(101):
+    print i
